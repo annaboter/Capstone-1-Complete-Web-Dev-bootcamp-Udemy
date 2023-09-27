@@ -21,7 +21,6 @@ Project Specifications
 
 - Use relevant anchor tags to create a multi-page website, listing other aspects of your resume such as Hobbies and Contact details.
 
-- Add a footer element with your name and any copyright information or other disclaimers. (Hint: use the MDN docs for things you don't know how to do: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer
-
+- Add a footer element with your name and any copyright information or other disclaimers.
 
 
